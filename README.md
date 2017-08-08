@@ -1,0 +1,2 @@
+# snippets
+Eclipse snippets
